@@ -502,6 +502,10 @@ a {
   font-size: 1.8rem;
   font-weight: 600;
 }
+
+.admin .btn-admin:hover {
+  opacity: 0.9;
+}
 /* ================= footer =============== */
 .footer .main-content {
   margin-top: 130px;
